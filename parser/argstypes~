@@ -1,0 +1,75 @@
+void)
+EGLNativeDisplayType
+EGLDisplay EGLint* EGLint*
+EGLDisplay
+EGLDisplay EGLint
+EGLDisplay EGLConfig* EGLint EGLint*
+EGLDisplay EGLint* EGLConfig* EGLint config_size,EGLint*
+EGLDisplay EGLConfig EGLint EGLint*
+EGLDisplay EGLConfig EGLNativeWindowType EGLint*
+EGLDisplay EGLConfig EGLint*
+EGLDisplay EGLConfig EGLNativePixmapType EGLint*
+EGLDisplay EGLSurface
+EGLDisplay EGLSurface EGLint EGLint*
+EGLenum
+void)
+void)
+void)
+EGLDisplay EGLenum EGLClientBuffer EGLConfig EGLint*
+EGLDisplay EGLSurface EGLint EGLint
+EGLDisplay EGLSurface EGLint
+EGLDisplay EGLSurface EGLint
+EGLDisplay EGLint
+EGLDisplay EGLConfig EGLContext EGLint*
+EGLDisplay EGLContext
+EGLDisplay EGLSurface EGLSurface EGLContext
+void)
+EGLint
+void)
+EGLDisplay EGLContext EGLint EGLint*
+void)
+EGLint
+EGLDisplay EGLSurface
+EGLDisplay EGLSurface EGLNativePixmapType
+char*
+EGLDisplay EGLSurface EGLint*
+EGLDisplay EGLSurface
+EGLDisplay EGLContext EGLenum EGLClientBuffer EGLint*
+EGLDisplay EGLImageKHR
+EGLDisplay EGLenum EGLint*
+EGLDisplay EGLSyncKHR
+EGLDisplay EGLSyncKHR EGLint EGLTimeKHR
+EGLDisplay EGLSyncKHR EGLenum
+EGLDisplay EGLSyncKHR EGLint EGLint*
+EGLDisplay EGLenum EGLint*
+EGLSyncNV
+EGLSyncNV
+EGLSyncNV EGLint EGLTimeNV
+EGLSyncNV EGLenum
+EGLSyncNV EGLint EGLint*
+EGLDisplay EGLConfig struct EGLClientPixmapHI*
+EGLDisplay EGLint*
+EGLDisplay EGLImageKHR EGLint* EGLint* EGLint*
+EGLDisplay EGLSurface EGLint EGLint EGLint EGLint
+EGLDisplay EGLSurface EGLint void**
+void)
+void)
+EGLDisplay EGLint*
+EGLDisplay EGLStreamKHR
+EGLDisplay EGLStreamKHR EGLenum EGLint
+EGLDisplay EGLStreamKHR EGLenum EGLint*
+EGLDisplay EGLStreamKHR EGLenum EGLuint64KHR*
+EGLDisplay EGLStreamKHR
+EGLDisplay EGLStreamKHR
+EGLDisplay EGLStreamKHR
+EGLDisplay EGLConfig EGLStreamKHR EGLint*
+EGLDisplay EGLStreamKHR EGLenum EGLTimeKHR*
+EGLDisplay EGLStreamKHR
+EGLDisplay EGLNativeFileDescriptorKHR
+EGLDisplay EGLSyncKHR EGLint
+EGLDisplay EGLNativeDisplayType*
+EGLDisplay EGLSurface EGLNativeWindowType*
+EGLDisplay EGLSurface EGLNativePixmapType*
+EGLDisplay EGLSetBlobFuncANDROID EGLGetBlobFuncANDROID
+EGLDisplay
+EGLDisplay EGLSurface EGLnsecsANDROID
